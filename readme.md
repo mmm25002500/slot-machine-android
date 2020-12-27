@@ -1,7 +1,8 @@
 # Slot-Machine Game 老虎機777遊戲
-這是一款使用Java寫的Android Game，可以猜數字，目前也正在維護中，也有在定時更新。
+這是一款使用Java寫的Android Game，可以猜運氣，目前也正在維護中，也有在定時更新。
 目前功能:
-猜數字
+777老虎機
+目前只有水果～～
 [![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger)
 
 ## 如何編譯 How to Compile
